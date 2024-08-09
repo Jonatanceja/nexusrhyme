@@ -1,0 +1,18 @@
+title: Sección de videos
+fields:
+  reels:
+    type: structure
+    label: video
+    fields:
+      title: 
+        type: text
+        label: Título del video
+      video:
+        type: url
+        label: Video
+      cover:
+        type: files
+        label: Portada de video
+        max: 1
+        layout: cards
+        size: huge

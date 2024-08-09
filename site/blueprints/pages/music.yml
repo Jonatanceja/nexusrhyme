@@ -1,0 +1,12 @@
+title: Nuestra musica
+fields:
+  intro:
+    type: textarea
+    label: Introduccón
+  music:
+    type: textarea
+    label: Descripción
+  embed:
+    type: textarea
+    label: Reproductor
+  

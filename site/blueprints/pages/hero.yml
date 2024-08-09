@@ -1,0 +1,58 @@
+title: Portada de inicio
+columns:
+  left:
+    width: 1/2
+    sections:
+      picture:
+        type: fields
+        fields:
+          pictureHeadline:
+            label: Imagenes
+            type: headline
+          picture:
+            type: files
+            label: Imagen de portada
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+              ratio: 4/3
+          pictureMobile:
+            type: files
+            label: Imagen de portada móvil
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+              ratio: 3/4
+          dates:
+            type: pages
+            label: Fechas
+  right:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          sectionHeadline:
+            label: Plataformas musicales
+            type: headline
+          spotify:
+            type: url
+            label: Spotify
+          deezer:
+            type: url
+            label: Deezer
+          apple:
+            type: url
+            label: Apple Music
+          amazon:
+            type: url
+            label: Amazon Music Prime
+          tidal:
+            type: url
+            label: Tidal
+
+            

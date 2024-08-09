@@ -1,0 +1,36 @@
+title: Booking
+columns:
+  left:
+    width: 1/2
+    sections:
+      picture:
+        type: fields
+        fields:
+          pictureHeadline:
+            label: Imagenes
+            type: headline
+          picture:
+            type: files
+            label: Imagen de portada
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+              image:
+              ratio: 4/3
+
+  right:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          heading:
+            type: text
+            label: Encabezado
+          button:
+            label: Botón de booking
+            type: url
+
+            

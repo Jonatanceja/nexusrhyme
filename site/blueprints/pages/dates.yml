@@ -1,0 +1,15 @@
+title: Próximas fechas
+fields:
+  dates:
+    type: structure
+    label: Evento
+    fields: 
+      date: 
+        type: date
+        label: Fecha
+      place: 
+        type: text
+        label: Lugar del evento
+      tickets:
+        type: url
+        label: Consigue tus boletos

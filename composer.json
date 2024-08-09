@@ -22,7 +22,8 @@
         "getkirby/cms": "^4.0",
         "beebmx/kirby-env": "^4.0",
         "beebmx/kirby-blade": "^5.0",
-        "k-community/markdown-field": "^2.0"
+        "k-community/markdown-field": "^2.0",
+        "felixhaeberle/kirby3-webp": "^2.0"
     },
     "config": {
         "optimize-autoloader": true,

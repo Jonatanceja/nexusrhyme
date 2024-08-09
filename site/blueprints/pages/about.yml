@@ -1,0 +1,28 @@
+title: Acerca de la banda
+columns:
+  left:
+    width: 1/2
+    sections:
+      picture:
+        type: fields
+        fields:
+          picture:
+            type: files
+            label: Imagen
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+
+  right:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          bio:
+            type: textarea
+            label: Biografía de la banda
+
+            

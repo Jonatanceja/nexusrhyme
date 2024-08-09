@@ -52,4 +52,9 @@ return [
             return "<?php ray($expression); ?>";
         },
     ],
+    'languages' => true,
+
+     // Configuración para el idioma español
+    'date.handler' => 'date',
+    'date.handler.format' => 'l, d \d\e F \d\e Y',
 ];

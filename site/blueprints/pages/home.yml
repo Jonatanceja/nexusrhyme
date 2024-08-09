@@ -1,0 +1,19 @@
+title: Landing Page
+
+sections:
+  parts:
+    headline: Secciones
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - hero
+      - about
+      - music
+      - dates
+      - band
+      - video
+      - book
+      - merch
+      - blog

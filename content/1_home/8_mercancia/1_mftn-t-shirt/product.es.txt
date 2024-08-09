@@ -1,0 +1,21 @@
+Title: MFTN T-Shirt
+
+----
+
+Picture: - file://vozT7DE3QAlQhQOZ
+
+----
+
+Price: 220
+
+----
+
+Description: Playera negra impresa en serigrafía, varias tallas.
+
+----
+
+Tallas: CH, M, G, XG
+
+----
+
+Uuid: s0S3y6SXZgnGe6Q6

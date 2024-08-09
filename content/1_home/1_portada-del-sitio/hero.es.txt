@@ -1,0 +1,46 @@
+Title: Portada del sitio
+
+----
+
+Picture: - file://Wk0kubvR7RlM1HSt
+
+----
+
+Picturemobile: - file://4PlT0eHZ7S9Ipd1s
+
+----
+
+Dates: - page://aMfkd2xFPnu8s88J
+
+----
+
+Spotify: https://open.spotify.com/artist/4IIz5C6Tp7z4Inhq6R8IqR?si=pjnOFDc2TWaeJ0Q-42DaCQ
+
+----
+
+Deezer: 
+
+----
+
+Apple: 
+
+----
+
+Amazon: https://music.amazon.com.mx/artists/B0BSVNPC18?ref=dm_sh_KxujyldLj7AfRTsNxY5UB0EzC
+
+----
+
+Tidal: 
+
+----
+
+Music:
+
+- 
+  platform: spotify
+  link: >
+    https://open.spotify.com/artist/4IIz5C6Tp7z4Inhq6R8IqR?si=uyjqp6tJR467_8v4AtVCKg
+
+----
+
+Uuid: Xmg74A7cxcSb963r
