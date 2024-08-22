@@ -6,20 +6,22 @@ Intro:
 
 # Musica
 ---
-Actualmente Mutant From The Nebula está en producción para el lanzamiento de su primer 
-EP – **“Mutant Neuronal Reprograming”** el cual maneja un concepto de historia narrativa a través de las sus canciones.
+Nexus Rhyme lanzo de su primer disco Homonimo, con 14 tracks, que abarcan desde melodías introspectivas hasta himnos animados. 
+Nexus Rhyme no es solo un artista; es un narrador de historias para la era digital, que supera los límites del género para ofrecer una perspectiva fresca y convincente sobre la vida moderna. Su paisaje sonoro lírico único ha capturado los corazones de los oyentes de todo el mundo, lo que lo convierte en una estrella en ascenso en la industria de la música.
 
 ----
 
 Music:
 
-En este EP nos cuentan una historia post apocalíptica después de una gran invasión a nuestro planeta por seres alienígenas, esto obliga a la humanidad restante a comenzar un viaje por el universo y salvarlos de la extinción total. 
+##_music
+# Nexus Rhyme
+Con su lanzamiento que abarca desde melodías introspectivas hasta himnos animados, Nexus Rhyme no es solo un artista; es un narrador de historias para la era digital, que supera los límites del género para ofrecer una perspectiva fresca y convincente sobre la vida moderna. Su paisaje sonoro lírico único ha capturado los corazones de los oyentes de todo el mundo, lo que lo convierte en una estrella en ascenso en la industria de la música.
 
-El viaje será narrado a través de seis canciones donde contaran la travesía de supervivencia y la batalla contra el mutante **“Vortiouss”**.
+Sumérgete en el mundo de Nexus Rhyme y experimenta el poder de la música que resuena con el alma y enciende la imaginación. Síguenos aquí en Spotify para conocer las últimas pistas y actualizaciones.
 
 ----
 
-Embed: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4IIz5C6Tp7z4Inhq6R8IqR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Embed: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/69558ADJ1IhnHJxXZ52aJr?utm_source=generator" width="100%" height="400" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ----
 

@@ -72,5 +72,8 @@ tabs:
       opengraph:
         label: Imagen Open Graph
         type: files
+      copyright:
+        label: Derechos de autor
+        type: textarea
 
 

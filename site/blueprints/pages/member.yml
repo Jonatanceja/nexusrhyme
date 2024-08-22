@@ -1,37 +1,12 @@
 title: Miembro
-
-columns:
-  left:
-    width: 1/2
-    sections:
-      picture:
-        type: fields
-        fields:
-          picture:
-            type: files
-            label: Fotografia de integrante
-            max: 1
-            layout: cards
-            size: huge
-            image:
-              cover: true
-
-  right:
-    width: 1/2
-    sections:
-      content:
-        type: fields
-        fields:
-          instrument:
-            type: select
-            label: Instrumento
-            options: 
-              - Guitarra
-              - Bateria
-              - Vocal
-              - Bajo
-          bio:
-            type: textarea
-            label: Biografía
+fields:
+  picture:
+    type: files
+    label: Fotografia de integrante
+    max: 1
+    layout: cards
+    size: huge
+    image:
+      cover: true
 
             

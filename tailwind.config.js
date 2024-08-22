@@ -1,12 +1,16 @@
-import theme from 'tailwindcss/defaultTheme'
-import colors from 'tailwindcss/colors'
-import forms from '@tailwindcss/forms'
-import typography from '@tailwindcss/typography'
+import theme from 'tailwindcss/defaultTheme';
+import colors from 'tailwindcss/colors';
+import forms from '@tailwindcss/forms';
+import typography from '@tailwindcss/typography';
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        golden: '#E9C357',
+      },
+    },
   },
   variants: {
     extend: {},
@@ -18,4 +22,4 @@ module.exports = {
     'resources/**/*.js',
     'resources/**/*.vue',
   ],
-}
+};

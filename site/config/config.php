@@ -54,7 +54,10 @@ return [
     ],
     'languages' => true,
 
-     // Configuración para el idioma español
+    // Configuración por idioma
     'date.handler' => 'date',
-    'date.handler.format' => 'l, d \d\e F \d\e Y',
+    'date.formats' => [
+        'es' => 'l, d \d\e F \d\e Y',
+        'en' => 'l, F j, Y'
+    ],
 ];

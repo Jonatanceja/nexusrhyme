@@ -18,18 +18,20 @@ columns:
             image:
               cover: true
               ratio: 4/3
-          pictureMobile:
-            type: files
-            label: Imagen de portada móvil
-            max: 1
-            layout: cards
-            size: huge
-            image:
-              cover: true
-              ratio: 3/4
-          dates:
-            type: pages
-            label: Fechas
+          newsletter:
+            type: text
+            label: Ultima actualización
+          button:
+            type: structure
+            label: Botón
+            fields:
+              link:
+                type: link
+                label: Enlace
+              text:
+                type: text
+                label: Texto
+
   right:
     width: 1/2
     sections:

@@ -1,0 +1,21 @@
+Title: New single: Leviathan
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Nuevo lanzamiento: \"Leviathan\" se estrena el 14 de agosto en Spotify, Apple Music, Deezer, iTunes y todas las principales plataformas de streaming</p><p>¿Estás luchando con tus demonios personales? Sumérgete en el viaje crudo y emocional de \"Leviathan\". Este poderoso himno captura la esencia de superar los desafíos más difíciles de la vida y salir fortalecido del otro lado.</p>"},"id":"1617173b-b6f5-4995-b738-9f7712a9f7a6","isHidden":false,"type":"text"}],"id":"de1ea115-802a-4019-b7ab-a47976e57b81","width":"1/1"}],"id":"b5e20c8d-6a67-4dbc-8a68-559cfb354e61"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6xCbkRP5FmetLXfh4a3onl?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"},"id":"739e1693-bbfa-4003-a27c-2fa60a651a8d","isHidden":false,"type":"markdown"}],"id":"f03288b5-ccbb-4490-bf40-f5748905cd52","width":"1/1"}],"id":"010b201e-63c6-4f10-be07-336586b4c642"}]
+
+----
+
+Date: 2024-08-12 02:55:00
+
+----
+
+Author: 
+
+----
+
+Picture: - file://tQO7JBDPJzL7aBFW
+
+----
+
+Short: Nuevo lanzamiento: "Leviathan" se estrena el 14 de agosto en Spotify, Apple Music, Deezer, iTunes y todas las principales plataformas de streaming

@@ -1,0 +1,28 @@
+Title: Musica
+
+----
+
+Intro:
+
+# Musica
+---
+Actualmente Mutant From The Nebula está en producción para el lanzamiento de su primer 
+EP – **“Mutant Neuronal Reprograming”** el cual maneja un concepto de historia narrativa a través de las sus canciones.
+
+----
+
+Music:
+
+##_music
+# Nexus Rhyme
+With his release that spans introspective melodies to upbeat anthems, Nexus Rhyme is not just an artist; he's a storyteller for the digital age, pushing the limits of genre to offer a fresh, compelling perspective on modern life. His unique lyrical soundscape have captured the hearts of listeners worldwide, making him a rising star in the music industry.
+
+Dive into the world of Nexus Rhyme and experience the power of music that resonates with the soul and sparks the imagination. Follow here on Spotify for the latest tracks and updates.
+
+----
+
+Embed: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/69558ADJ1IhnHJxXZ52aJr?utm_source=generator" width="100%" height="400" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+----
+
+Uuid: ar9WBskVTidQxKnA

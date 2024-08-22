@@ -39,9 +39,8 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet" />
 </head>
-<body class="bg-zinc-950">
+<body class="dark:bg-zinc-900 bg-white">
     @include('partials.header')
-    @include('partials.social')
     @yield('content')
     @include('partials.footer')
 </body>

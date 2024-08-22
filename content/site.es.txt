@@ -1,32 +1,32 @@
-Title: Mutant From The Nebula
+Title: Nexus Rhyme
 
 ----
 
-Phone: 3319753854
+Phone: 
 
 ----
 
-Email: mutantsftn@gmail.com
+Email: nexus@nexusrhyme.com
 
 ----
 
-Whatsapp: https://api.whatsapp.com/send?phone=3310828447&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20tu%20banda
+Whatsapp: 
 
 ----
 
-Facebook: https://www.facebook.com/mutantfromthenebula/
+Facebook: https://www.facebook.com/profile.php?id=61562419651533
 
 ----
 
-Instagram: https://www.instagram.com/mutantfromthenebula/
+Instagram: https://www.instagram.com/nexusrhyme/
 
 ----
 
-Youtube: https://www.youtube.com/@mutantfromthenebula4345
+Youtube: https://www.youtube.com/@NexusRhyme
 
 ----
 
-Description: Somos una banda de Metal Progresivo, Deathcore y Djent de Guadalajara, Jalisco
+Description: El productor Nexus Rhyme es una fuerza enigmática, creando pistas que entrelazan las ricas texturas del hip-hop con las infinitas posibilidades de ritmos futuristas. Cada canción es un viaje: una exploración de emociones profundas y de las historias universales que nos conectan a todos
 
 ----
 
@@ -38,4 +38,8 @@ Analytics:
 
 ----
 
-Opengraph: - file://pJdWQ4wiZ2DyhEfP
+Opengraph: 
+
+----
+
+Copyright: Todos los derechos reservados

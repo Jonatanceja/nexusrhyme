@@ -2,35 +2,48 @@ Title: Portada del sitio
 
 ----
 
-Picture: - file://Wk0kubvR7RlM1HSt
+Picture: - file://WqIBBBeyb8V9hboe
 
 ----
 
-Picturemobile: - file://4PlT0eHZ7S9Ipd1s
+Newsletter: New single: Leviathan
 
 ----
 
-Dates: - page://aMfkd2xFPnu8s88J
+Button:
+
+- 
+  link: >
+    https://open.spotify.com/intl-es/track/6xCbkRP5FmetLXfh4a3onl?si=c9141dc1591346c4
+  text: Escuchar
 
 ----
 
-Spotify: https://open.spotify.com/artist/4IIz5C6Tp7z4Inhq6R8IqR?si=pjnOFDc2TWaeJ0Q-42DaCQ
+Spotify: https://open.spotify.com/intl-es/artist/69558ADJ1IhnHJxXZ52aJr?si=dGs3COfhSMG-AzB3WNYApQ
 
 ----
 
-Deezer: 
+Deezer: https://www.deezer.com/mx/album/605175242
 
 ----
 
-Apple: 
+Apple: https://music.apple.com/mx/artist/nexus-rhyme/1752881423
 
 ----
 
-Amazon: https://music.amazon.com.mx/artists/B0BSVNPC18?ref=dm_sh_KxujyldLj7AfRTsNxY5UB0EzC
+Amazon: 
 
 ----
 
 Tidal: 
+
+----
+
+Picturemobile: - file://zzRifAaz0CWbKdAU
+
+----
+
+Dates: - page://aMfkd2xFPnu8s88J
 
 ----
 
@@ -40,7 +53,3 @@ Music:
   platform: spotify
   link: >
     https://open.spotify.com/artist/4IIz5C6Tp7z4Inhq6R8IqR?si=uyjqp6tJR467_8v4AtVCKg
-
-----
-
-Uuid: Xmg74A7cxcSb963r
